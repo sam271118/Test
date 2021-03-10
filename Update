@@ -2,5 +2,5 @@
 <version>1.0.0.0</version>
 <url>http://laptrinhvb.net/TestAutoUpdate.zip</url>
 <changelog>https://laptrinhvb.net</changelog>
-<mandatory mode="2">true</mandatory>
+<mandatory mode="2">false</mandatory>
 </item>
